@@ -25,7 +25,7 @@
   text-transform: uppercase;
 }
 #footer .footer-top .footer-info h3 span {
-  color: #ffc451;
+  color: #AC870C;
 }
 #footer .footer-top .footer-info p {
   font-size: 14px;
@@ -49,7 +49,7 @@
   transition: 0.3s;
 }
 #footer .footer-top .social-links a:hover {
-  background: #ffc451;
+  background: #AC870C;
   color: #151515;
   text-decoration: none;
 }
@@ -70,7 +70,7 @@
 }
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ffc451;
+  color: #AC870C;
   font-size: 18px;
   line-height: 1;
 }
@@ -89,7 +89,7 @@
   line-height: 1;
 }
 #footer .footer-top .footer-links ul a:hover {
-  color: #ffc451;
+  color: #AC870C;
 }
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
@@ -112,13 +112,13 @@
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #ffc451;
+  background: #AC870C;
   color: #151515;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
 }
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #ffcd6b;
+  background: #AC870C;
 }
 #footer .copyright {
   text-align: center;

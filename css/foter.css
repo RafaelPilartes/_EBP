@@ -8,6 +8,7 @@
 
 .footer .box-container .box {
   padding: 1rem 0;
+  text-align: left;
 }
 
 .footer .box-container .box .logo {
@@ -21,7 +22,7 @@
 
 .footer .box-container .box h3 {
   font-size: 2.2rem;
-  color: #fff;
+  color: #AC870C;
   padding: 1rem 0;
 }
 

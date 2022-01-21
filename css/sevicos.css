@@ -21,12 +21,12 @@
 }
 
 .services .box-container .box:hover {
-  border: 0.2rem solid #ffc451;
+  border: 0.2rem solid #AC870C;
 }
 
 .services .box-container .box i {
   font-size: 4rem;
-  color: #ffc451;
+  color: #AC870C;
   margin-bottom: 2rem;
 }
 
@@ -45,7 +45,7 @@
 .vermais {
   width: 50%;
   height: 3rem;
-  background-color: #ffc451;
+  background-color: #AC870C;
   margin-top: 2rem;
 }
 .vermais a {

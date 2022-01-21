@@ -11,7 +11,7 @@
 
 .team .team_member .team_img i {
   font-size: 5rem;
-  color: #ffc451;
+  color: #AC870C;
   justify-content: center;
   align-items: center;
   position: absolute;
@@ -42,7 +42,7 @@
 }
 
 .team .team_member h3 {
-  color: #ffc451;
+  color: #AC870C;
   font-size: 26px;
   margin: 50px 0 40px 0;
 }
