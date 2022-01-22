@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
+@font-face{
+  font-family: 'ebpfont';
+  src: url('../fonte/Vendura-SemiBold-Demo.otf') format('opentype'); 
+  font-weight: 600; 
+  font-style: normal;
+}
+
 :root {
   --main-color: #AC870C;
   --black: hsl(240, 16%, 9%);
@@ -82,7 +89,9 @@ section {
   font-size: 3.2rem;
   text-transform: uppercase;
   margin-bottom: 3rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+{font-family: 'ebpfont', Times, serif;}
 
 .btn {
   margin-top: 1rem;
@@ -99,7 +108,7 @@ section {
 }
 
 .header {
-  background: #031535;
+  background: #01062E;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -305,6 +314,18 @@ section {
 .sobre .description {
   color: white;
   font-size: 2rem;
+}
+
+.sobre .box-container .h3-1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.servicos {
+  background: url('../images/background.jpg') repeat fixed 100%;
+}
+
+.servicos .servTitle {
+  background-color: #01062E;
 }
 
 .servicos .description {

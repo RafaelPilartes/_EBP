@@ -16,14 +16,15 @@
 }
 
 .footer .box-container .box img {
-  width: 200px;
-  height: 70px;
+ width: 193px;
+ height: 92px;
 }
 
 .footer .box-container .box h3 {
   font-size: 2.2rem;
   color: #AC870C;
   padding: 1rem 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .footer .box-container .box p {
