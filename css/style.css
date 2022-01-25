@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 
-@font-face{
+@font-face {
   font-family: 'ebpfont';
-  src: url('../fonte/Vendura-SemiBold-Demo.otf') format('opentype'); 
-  font-weight: 600; 
+  src: url('../fonte/Vendura-SemiBold-Demo.otf') format('opentype');
+  font-weight: 600;
   font-style: normal;
 }
 
 :root {
-  --main-color: #AC870C;
+  --main-color: #ac870c;
   --black: hsl(240, 16%, 9%);
   --bg: #010103;
   --border: 0.1rem solid rgba(255, 255, 255, 0.3);
@@ -73,7 +73,7 @@ section {
   left: 0;
   top: 30%;
   display: block;
-  background-image: linear-gradient(to right, #AC870C, #f0d090);
+  background-image: linear-gradient(to right, #ac870c, #f0d090);
   z-index: -2;
 }
 
@@ -85,13 +85,12 @@ section {
 }
 
 .sub-heading {
-  color: #AC870C;
+  color: #ac870c;
   font-size: 3.2rem;
   text-transform: uppercase;
   margin-bottom: 3rem;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-{font-family: 'ebpfont', Times, serif;}
 
 .btn {
   margin-top: 1rem;
@@ -108,7 +107,7 @@ section {
 }
 
 .header {
-  background: #01062E;
+  background: #01062e;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -311,6 +310,14 @@ section {
   color: white;
   font-size: 2rem;
 }
+
+.sobre {
+  background: url('../images/backgound2.png') repeat fixed;
+}
+.sobre .sobreTitle {
+  background-color: transparent;
+}
+
 .sobre .description {
   color: white;
   font-size: 2rem;
@@ -325,7 +332,7 @@ section {
 }
 
 .servicos .servTitle {
-  background-color: #01062E;
+  background-color: #01062e;
 }
 
 .servicos .description {

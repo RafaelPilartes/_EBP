@@ -16,13 +16,13 @@
 }
 
 .footer .box-container .box img {
- width: 193px;
- height: 92px;
+  width: 193px;
+  height: 92px;
 }
 
 .footer .box-container .box h3 {
   font-size: 2.2rem;
-  color: #AC870C;
+  color: #ac870c;
   padding: 1rem 0;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -36,7 +36,7 @@
 
 .footer .box-container .box p i {
   padding-right: 0.5rem;
-  color: #ffc451;
+  color: #ac870c;
 }
 
 .footer .box-container .box .share {
@@ -50,14 +50,14 @@
   font-size: 2rem;
   border-radius: 50%;
   font-size: 1.7rem;
-  border: 0.2rem solid #ffc451;
-  color: #ffc451;
+  border: 0.2rem solid #ac870c;
+  color: #ac870c;
   margin-right: 0.5rem;
   text-align: center;
 }
 
 .footer .box-container .box .share a:hover {
-  background: #ffc451;
+  background: #ac870c;
   color: #111;
 }
 
@@ -69,7 +69,7 @@
 }
 
 .footer .box-container .box .links:hover {
-  color: #ffc451;
+  color: #ac870c;
 }
 
 .footer .box-container .box .links:hover i {
@@ -78,13 +78,13 @@
 
 .footer .box-container .box .links i {
   padding-right: 0.5rem;
-  color: #ffc451;
+  color: #ac870c;
 }
 
 .footer .box-container .box form .email {
   width: 100%;
   border-radius: 5rem;
-  border: 0.2rem solid #ffc451;
+  border: 0.2rem solid #ac870c;
   background: none;
   font-size: 1.5rem;
   text-transform: none;
