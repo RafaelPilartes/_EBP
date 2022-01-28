@@ -21,20 +21,20 @@
 }
 
 .services .box-container .box:hover {
-  border: 0.2rem solid #AC870C;
+  border: 0.2rem solid #ac870c;
 }
 
 .services .box-container .box i {
   font-size: 4rem;
-  color: #AC870C;
-  margin-bottom: 2rem;
+  color: #ac870c;
+  margin-bottom: 1rem;
 }
 
 .services .box-container .box h3 {
   font-size: 2rem;
+  margin: 2rem;
   color: #fff;
 }
-
 .services .box-container .box p {
   padding: 1rem 0;
   font-size: 1.4rem;
@@ -45,7 +45,7 @@
 .vermais {
   width: 50%;
   height: 3rem;
-  background-color: #AC870C;
+  background-color: #ac870c;
   margin-top: 2rem;
 }
 .vermais a {

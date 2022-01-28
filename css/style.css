@@ -88,7 +88,7 @@ section {
   color: #ac870c;
   font-size: 3.2rem;
   text-transform: uppercase;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -338,6 +338,12 @@ section {
 .servicos .description {
   color: white;
   font-size: 2rem;
+}
+.servicos .box-container p {
+  padding: 1rem 0;
+  font-size: 1.8rem;
+  color: rgb(243, 243, 243);
+  line-height: 2;
 }
 
 .contact .row {
